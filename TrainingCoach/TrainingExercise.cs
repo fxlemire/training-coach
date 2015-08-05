@@ -63,7 +63,7 @@ namespace TrainingCoach {
 			}
 
 			while (loop > 0) {
-				synthesizer.Speak("GO!");
+				synthesizer.SpeakAsync("GO!");
 				wait(_duration * 1000);
 				synthesizer.Speak("Break time!");
 				wait(_breakDuration * 1000);
@@ -79,7 +79,7 @@ namespace TrainingCoach {
 			SpeechSynthesizer synthesizer = new SpeechSynthesizer();
 
 			while (duration > 0) {
-				synthesizer.Speak(Convert.ToString(duration));
+				synthesizer.SpeakAsync(Convert.ToString(duration));
 				wait(1000);
 				--duration;
 			}
