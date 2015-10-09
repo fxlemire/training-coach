@@ -26,3 +26,4 @@ _MONETIZATION POSSIBILITIES AND OTHER VISIONS_:
  * charge for some training statistics on the user
  * share training plans among other users
  * gym recommendations based on location/training type/reviews/etc.
+ * specific voices: Mr.T is your trainer (possible to modify the text-to-speech? if not, then sell pre-made plans)
