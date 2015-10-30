@@ -20,7 +20,7 @@ _LONG TERM TASKS_:
  * implement possibilities of deleting programs
  * implement possibility of tracking performance in each exercise
 
- _PROBLEMS AND SOLUTIONS_:
+_PROBLEMS AND SOLUTIONS_:
  * long waiting in gyms for machines will discrupt training
    * allow to pause the program
    * allow reorganization among training blocks (drag and drop)
