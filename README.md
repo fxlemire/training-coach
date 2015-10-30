@@ -20,6 +20,11 @@ _LONG TERM TASKS_:
  * implement possibilities of deleting programs
  * implement possibility of tracking performance in each exercise
 
+ _PROBLEMS AND SOLUTIONS_:
+ * long waiting in gyms for machines will discrupt training
+   * allow to pause the program
+   * allow reorganization among training blocks (drag and drop)
+
 _MONETIZATION POSSIBILITIES AND OTHER VISIONS_:
  * free install, free creation of 3 plans, then charge per plan addition (new plans packages)
  * charge for training plans created by professionals
