@@ -32,3 +32,11 @@ _MONETIZATION POSSIBILITIES AND OTHER VISIONS_:
  * share training plans among other users
  * gym recommendations based on location/training type/reviews/etc.
  * specific voices: Mr.T is your trainer (possible to modify the text-to-speech? if not, then sell pre-made plans)
+
+_ASSHOLES_:
+ * Fitocracy
+ * pumpup
+ * Gymnut
+ * X minutes Y Workout
+ * athlean-x (youtube)
+ * fitness faqs (youtube)
